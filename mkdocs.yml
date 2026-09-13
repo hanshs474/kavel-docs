@@ -1,0 +1,19 @@
+site_name: Kavel SDKs — free image generation with no API key
+site_url: https://kavel.readthedocs.io/
+repo_url: https://github.com/hanshs474/kavel-docs
+site_description: Generate and edit images from Go, Python, Rust, TypeScript and PHP against the free tier of kavel.ai — no key, no account.
+theme: readthedocs
+nav:
+  - Overview: index.md
+  - SDKs:
+      - Python: sdk/python.md
+      - Go: sdk/go.md
+      - Rust: sdk/rust.md
+      - TypeScript (Deno, Node, Bun): sdk/typescript.md
+      - PHP: sdk/php.md
+      - Raw HTTP: sdk/http.md
+  - Recipes:
+      - Batch jobs under the daily ceiling: recipes/batch.md
+      - Writing edit instructions: recipes/edits.md
+      - Handling the three failures: recipes/errors.md
+  - Limits and pricing: limits.md
