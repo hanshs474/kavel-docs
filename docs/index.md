@@ -14,8 +14,11 @@ box nobody wants to configure.
 | Python | `pip install kavel` | [pypi.org/project/kavel](https://pypi.org/project/kavel/) |
 | Go | `go get github.com/hanshs474/kavel-go` | [pkg.go.dev](https://pkg.go.dev/github.com/hanshs474/kavel-go) |
 | Rust | `cargo add kavel` | [docs.rs/kavel](https://docs.rs/kavel) |
-| TypeScript | `deno add jsr:@kavel/kavel` | [github.com/hanshs474/kavel-ts](https://github.com/hanshs474/kavel-ts) |
-| PHP | `composer require hanshs474/kavel` | [github.com/hanshs474/kavel-php](https://github.com/hanshs474/kavel-php) |
+| TypeScript | `deno add jsr:@kavel/kavel` | [jsr.io/@kavel/kavel](https://jsr.io/@kavel/kavel) |
+| PHP | `composer require hanshs474/kavel` | [packagist.org](https://packagist.org/packages/hanshs474/kavel) |
+| Ruby | `gem install kavel` | [rubygems.org/gems/kavel](https://rubygems.org/gems/kavel) |
+| Dart / Flutter | `dart pub add kavel` | [pub.dev/packages/kavel](https://pub.dev/packages/kavel) |
+| .NET | `dotnet add package Kavel` | [nuget.org/packages/Kavel](https://www.nuget.org/packages/Kavel) |
 | Anything else | two HTTP calls | [Raw HTTP](sdk/http.md) |
 
 ## What one call does
@@ -40,3 +43,5 @@ Signed-in accounts get the rest of the shelf —
 [GPT Image 2](https://www.kavel.ai/image/gpt-image-2?utm_source=readthedocs&utm_medium=docs),
 [Qwen Image 3](https://www.kavel.ai/image/qwen-image-3?utm_source=readthedocs&utm_medium=docs) and
 [Seedream 5.0 Pro](https://www.kavel.ai/image/seedream-5-pro?utm_source=readthedocs&utm_medium=docs) — plus video. See [Limits and pricing](limits.md).
+
+When a script outgrows the free tier, the same SDKs take an API key and run on your account — see [Using an API key](api-key.md).

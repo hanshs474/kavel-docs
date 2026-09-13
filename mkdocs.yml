@@ -11,9 +11,13 @@ nav:
       - Rust: sdk/rust.md
       - TypeScript (Deno, Node, Bun): sdk/typescript.md
       - PHP: sdk/php.md
+      - Ruby: sdk/ruby.md
+      - Dart and Flutter: sdk/dart.md
+      - .NET: sdk/dotnet.md
       - Raw HTTP: sdk/http.md
   - Recipes:
       - Batch jobs under the daily ceiling: recipes/batch.md
       - Writing edit instructions: recipes/edits.md
       - Handling the three failures: recipes/errors.md
+  - Using an API key: api-key.md
   - Limits and pricing: limits.md

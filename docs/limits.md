@@ -19,6 +19,8 @@ around it.
 
 ## Past the free tier
 
+For code, create an API key and calls run on your account — see [Using an API key](api-key.md).
+
 Signing in at [kavel.ai](https://www.kavel.ai/?utm_source=readthedocs&utm_medium=docs) removes the watermark, lifts the ceiling and opens
 4K output and video. The [pricing page](https://www.kavel.ai/pricing?utm_source=readthedocs&utm_medium=docs) lists each plan's credits, and
 the [AI video generator](https://www.kavel.ai/video?utm_source=readthedocs&utm_medium=docs) has the video models.
