@@ -15,6 +15,8 @@ nav:
       - Dart and Flutter: sdk/dart.md
       - .NET: sdk/dotnet.md
       - Raw HTTP: sdk/http.md
+  - Integrations:
+      - LangChain: integrations/langchain.md
   - Recipes:
       - Batch jobs under the daily ceiling: recipes/batch.md
       - Writing edit instructions: recipes/edits.md
