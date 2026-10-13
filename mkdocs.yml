@@ -17,6 +17,7 @@ nav:
       - Raw HTTP: sdk/http.md
   - Integrations:
       - LangChain: integrations/langchain.md
+      - Claude connector (MCP): integrations/claude.md
   - Recipes:
       - Batch jobs under the daily ceiling: recipes/batch.md
       - Writing edit instructions: recipes/edits.md
