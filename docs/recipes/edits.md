@@ -18,3 +18,13 @@ The same engine powers the [AI hairstyle changer](https://www.kavel.ai/image/ai-
 the [AI outfit generator](https://www.kavel.ai/image/ai-outfit-generator?utm_source=readthedocs&utm_medium=docs) and the
 [AI product photo editor](https://www.kavel.ai/image/ai-product-photo-editor?utm_source=readthedocs&utm_medium=docs), each preloaded with a
 prompt tuned for that job — a good place to copy wording from.
+
+## Single-edit pages to test a prompt in the browser
+
+Before scripting an edit, it can help to see what one prompt does to one photo. Each of
+these pages does exactly one change in the browser:
+
+- [AI Smile Generator](https://ai-smile-generator-free.netlify.app/) — a natural smile on a neutral face
+- [Teeth Whitening Photo Editor](https://teeth-whitening-photo-editor.onrender.com/) — whiter teeth, same smile
+- [Braces Filter](https://hanshs474.github.io/braces-filter/) — see a smile with braces on
+- [AI Bald Filter](https://shiny-scalp-studio.lovable.app/) — the same face with a shaved head
